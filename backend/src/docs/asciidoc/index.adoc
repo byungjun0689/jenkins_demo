@@ -1,0 +1,29 @@
+= 모모 API 명세
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 3
+:sectlinks:
+
+== Overview
+include::overview.adoc[]
+
+== APIs
+=== Member API
+* link:member.html[회원 API, window=_blank]
+* link:auth.html[인증 API, window=_blank]
+
+=== Group API
+* link:groupModify.html[모임 생성/변경/삭제 API, window=_blank]
+* link:groupSearch.html[모임 조회 API, window=_blank]
+* link:participate.html[모임 참여 API, window=_blank]
+
+=== Category API
+* link:category.html[카테고리 API, window=_blank]
+
+=== Favorite API
+* link:like.html[찜기능 API, window=_blank]
+
+=== Image API
+* link:image.html[이미지 API, window=_blank]
